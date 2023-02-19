@@ -20,13 +20,26 @@ sbox = driver.find_element(By.TAG_NAME, searchterm)
 sbox.clear()
 sbox.send_keys(">sample sequence 2\nSEIIDNIYSVKAYCWESAMEKMIENLREVELKMTRKAAYMRFFTSSAFFFSGFFVVFLSVLPYTVINGIVLRKIFTTISFCIVLRMSVTRQFPTAVQIWYDSFGMIRKIQDFLQKQEYKVLEYNLMTTGI")
 
-button = driver.find_element(By.NAME, buttonname).click()
+button = driver.find_element(By.NAME, buttonname)
+button.click()
 driver.switch_to.window(driver.window_handles[1])
 
 #Displays the output of Gravy
 print(driver.find_element(By.CLASS_NAME, 'main').text)
 
 #close double windows
+driver.close()
+driver.switch_to.window(driver.window_handles[0])
+
+sbox.clear()
+sbox.send_keys(">sample sequence 2\nSDNIYSVKAYCWESAMEKMIENLREVELKMTRKAAYMRFFTSSAFFFSGFFVVFLSVLPYTVINGIVLRKIFTTISFCIVLRMSVTRQFPTAVQIWYDSFGMIRKIQDFLQKQEYKVLEYNLMTTGI")
+button.click()
+driver.switch_to.window(driver.window_handles[1])
+
+#Displays the output of Gravy
+print(driver.find_element(By.CLASS_NAME, 'main').text)
+
+
 driver.close()
 driver.switch_to.window(driver.window_handles[0])
 driver.close()
