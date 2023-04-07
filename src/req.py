@@ -6,18 +6,21 @@ url = "https://www.bioinformatics.org/sms2/protein_gravy.html"
 searchterm = "textarea"
 buttonname = "main_submit"
 
-#TODO: Find a better browser to communicate with, such as the one that doesnt use a GUI, so the server usage can be minimized
-
 #You have to have Firefox installed, Alternatively use webdriver.Chrome().
 
 op = Options()
 op.add_argument('-headless')
+
+print("Loading Webdriver...")
 driver = webdriver.Firefox(options=op)
 
+print("Getting Url...")
 driver.get(url)
 
 sbox = driver.find_element(By.TAG_NAME, searchterm)
 sbox.clear()
+
+print("Sending Protein...")
 sbox.send_keys(">sample sequence 2\nSEIIDNIYSVKAYCWESAMEKMIENLREVELKMTRKAAYMRFFTSSAFFFSGFFVVFLSVLPYTVINGIVLRKIFTTISFCIVLRMSVTRQFPTAVQIWYDSFGMIRKIQDFLQKQEYKVLEYNLMTTGI")
 
 button = driver.find_element(By.NAME, buttonname)
