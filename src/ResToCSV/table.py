@@ -22,6 +22,7 @@ for line in Lines:
     if titleline:
         full_name = re.match(pat, text)
         full_name = str(full_name.group(1))
+        full_name = full_name.replace(',', '')
         text = text.replace('\"', '').split(' ')
         results = text[2]
         sequence = text[5]
