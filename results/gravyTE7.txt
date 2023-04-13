@@ -1,0 +1,269 @@
+Protein GRAVY results
+
+Results for 96 residue sequence "lcl|Query_10001" starting "MIGAQPDIKD"
+-0.020
+
+Results for 241 residue sequence "lcl|Query_10002" starting "MKFILLWALL"
+0.191
+
+Results for 102 residue sequence "lcl|Query_10003" starting "MGSLHCGVVH"
+-0.292
+
+Results for 116 residue sequence "lcl|Query_10004" starting "MDTWLVCWAI"
+-0.163
+
+Results for 114 residue sequence "lcl|Query_10005" starting "MGCRLLCCVV"
+-0.244
+
+Results for 114 residue sequence "lcl|Query_10006" starting "MGCRLLCCAV"
+-0.166
+
+Results for 114 residue sequence "lcl|Query_10007" starting "MGSRLLCWVL"
+-0.189
+
+Results for 115 residue sequence "lcl|Query_10008" starting "MSIGLLCCVA"
+-0.214
+
+Results for 116 residue sequence "lcl|Query_10009" starting "MGTRLLCWAA"
+-0.328
+
+Results for 114 residue sequence "lcl|Query_10010" starting "MGCRLLCCAV"
+-0.216
+
+Results for 115 residue sequence "lcl|Query_10011" starting "MSLGLLCCGA"
+-0.075
+
+Results for 113 residue sequence "lcl|Query_10012" starting "MGCRLLCYVA"
+-0.355
+
+Results for 114 residue sequence "lcl|Query_10013" starting "MGCRLLCCAV"
+-0.146
+
+Results for 115 residue sequence "lcl|Query_10014" starting "MSLGLLCCGV"
+-0.054
+
+Results for 116 residue sequence "lcl|Query_10015" starting "MGTRLLFWVA"
+-0.227
+
+Results for 91 residue sequence "lcl|Query_10016" starting "PWRQGSARYQ"
+-0.245
+
+Results for 107 residue sequence "lcl|Query_10017" starting "MGSGLLCWTL"
+-0.119
+
+Results for 115 residue sequence "lcl|Query_10018" starting "MRIRLLCCVA"
+0.017
+
+Results for 116 residue sequence "lcl|Query_10019" starting "MGTRLLCWAA"
+-0.199
+
+Results for 106 residue sequence "lcl|Query_10020" starting "MNPKLFCVTL"
+-0.027
+
+Results for 114 residue sequence "lcl|Query_10021" starting "MGPGLLCWEL"
+-0.204
+
+Results for 114 residue sequence "lcl|Query_10022" starting "MGFRLLCCVA"
+-0.018
+
+Results for 115 residue sequence "lcl|Query_10023" starting "MGTRLFFYVA"
+-0.471
+
+Results for 116 residue sequence "lcl|Query_10024" starting "MSTRLLCWMA"
+-0.058
+
+Results for 114 residue sequence "lcl|Query_10025" starting "MGSWTLCVSL"
+0.066
+
+Results for 115 residue sequence "lcl|Query_10026" starting "MGTRLFFYVA"
+-0.279
+
+Results for 115 residue sequence "lcl|Query_10027" starting "MGTRLLCWAA"
+-0.052
+
+Results for 114 residue sequence "lcl|Query_10028" starting "MDSWTLCVSL"
+0.073
+
+Results for 115 residue sequence "lcl|Query_10029" starting "MSIGLLCCAA"
+-0.046
+
+Results for 116 residue sequence "lcl|Query_10030" starting "MGTRLLCWVV"
+-0.457
+
+Results for 114 residue sequence "lcl|Query_10031" starting "MGPGLLCWVL"
+-0.205
+
+Results for 115 residue sequence "lcl|Query_10032" starting "MSISLLCCAA"
+-0.057
+
+Results for 114 residue sequence "lcl|Query_10033" starting "MGTRLLCWVV"
+-0.580
+
+Results for 114 residue sequence "lcl|Query_10034" starting "MGPGLLCWVL"
+-0.093
+
+Results for 115 residue sequence "lcl|Query_10035" starting "MSLGLLCCVA"
+-0.117
+
+Results for 116 residue sequence "lcl|Query_10036" starting "MGTSLLCWVV"
+-0.447
+
+Results for 114 residue sequence "lcl|Query_10037" starting "MGPGLLCWAL"
+-0.189
+
+Results for 114 residue sequence "lcl|Query_10038" starting "MSLGLLCCAA"
+-0.032
+
+Results for 116 residue sequence "lcl|Query_10039" starting "MGTSLLCWVV"
+-0.444
+
+Results for 114 residue sequence "lcl|Query_10040" starting "MGPGLLCWVL"
+-0.175
+
+Results for 115 residue sequence "lcl|Query_10041" starting "MSIGLLCCVA"
+-0.130
+
+Results for 116 residue sequence "lcl|Query_10042" starting "MGTRLLCWVV"
+-0.246
+
+Results for 114 residue sequence "lcl|Query_10043" starting "MGPRLLFWAL"
+-0.161
+
+Results for 116 residue sequence "lcl|Query_10044" starting "MGTSLLCWMA"
+-0.530
+
+Results for 125 residue sequence "lcl|Query_10045" starting "MLSPDLPDSA"
+-0.230
+
+Results for 115 residue sequence "lcl|Query_10046" starting "MGTRLFFYVA"
+-0.457
+
+Results for 115 residue sequence "lcl|Query_10047" starting "MGTRLLCWVA"
+-0.092
+
+Results for 116 residue sequence "lcl|Query_10048" starting "MDSWTFCCVS"
+-0.132
+
+Results for 116 residue sequence "lcl|Query_10049" starting "MDSWTLCCVS"
+-0.128
+
+Results for 116 residue sequence "lcl|Query_10050" starting "MATRLLCCVV"
+-0.063
+
+Results for 115 residue sequence "lcl|Query_10051" starting "MVSRLLSLVS"
+-0.223
+
+Results for 114 residue sequence "lcl|Query_10052" starting "MGPGLLHWMA"
+-0.429
+
+Results for 115 residue sequence "lcl|Query_10053" starting "MSPIFTCITI"
+-0.092
+
+Results for 115 residue sequence "lcl|Query_10054" starting "MDIWLLCWVT"
+-0.335
+
+Results for 116 residue sequence "lcl|Query_10055" starting "MDTRVLCCAV"
+-0.322
+
+Results for 114 residue sequence "lcl|Query_10056" starting "MSNQVLCCVV"
+-0.282
+
+Results for 111 residue sequence "lcl|Query_10057" starting "MLLLLLLLGP"
+0.087
+
+Results for 110 residue sequence "lcl|Query_10058" starting "MCLRLLCCVA"
+-0.146
+
+Results for 114 residue sequence "lcl|Query_10059" starting "MGSWVLCYVT"
+-0.382
+
+Results for 116 residue sequence "lcl|Query_10060" starting "MGTRLLGCAA"
+-0.366
+
+Results for 115 residue sequence "lcl|Query_10061" starting "MASLLFFCGA"
+-0.256
+
+Results for 114 residue sequence "lcl|Query_10062" starting "MTIRLLCYMG"
+-0.321
+
+Results for 100 residue sequence "lcl|Query_10063" starting "SWLFLPCMYF"
+0.331
+
+Results for 114 residue sequence "lcl|Query_10064" starting "MSNRLLCCVI"
+-0.048
+
+Results for 128 residue sequence "lcl|Query_10065" starting "LLGHSSVCGL"
+-0.202
+
+Results for 115 residue sequence "lcl|Query_10066" starting "MGPQLLGYVV"
+-0.314
+
+Results for 114 residue sequence "lcl|Query_10067" starting "MGIRLLCRVA"
+-0.121
+
+Results for 111 residue sequence "lcl|Query_10068" starting "MLSLLLLLLG"
+0.176
+
+Results for 247 residue sequence "lcl|Query_10069" starting "MNPLLILTFV"
+-0.152
+
+Results for 261 residue sequence "lcl|Query_10070" starting "MNLLLILTFV"
+-0.096
+
+Results for 247 residue sequence "lcl|Query_10071" starting "MNLLLILTFV"
+-0.062
+
+Results for 15 residue sequence "lcl|Query_10072" starting "NTEAFFGQGT"
+0.113
+
+Results for 15 residue sequence "lcl|Query_10073" starting "NYGYTFGSGT"
+0.020
+
+Results for 16 residue sequence "lcl|Query_10074" starting "LWKHHIFWRG"
+-0.150
+
+Results for 17 residue sequence "lcl|Query_10075" starting "QLMKNCFLAV"
+0.312
+
+Results for 16 residue sequence "lcl|Query_10076" starting "SNQPQHFGDG"
+-0.719
+
+Results for 17 residue sequence "lcl|Query_10077" starting "SYNSPLHFGN"
+-0.441
+
+Results for 176 residue sequence "lcl|Query_10078" starting "DLNKVFPPEV"
+-0.147
+
+Results for 5 residue sequence "lcl|Query_10079" starting "GTSGR"
+-1.360
+
+Results for 16 residue sequence "lcl|Query_10080" starting "SYNEQFFGPG"
+-0.219
+
+Results for 16 residue sequence "lcl|Query_10081" starting "NTGELFFGEG"
+0.175
+
+Results for 15 residue sequence "lcl|Query_10082" starting "MRGAAGRLGG"
+0.927
+
+Results for 16 residue sequence "lcl|Query_10083" starting "STDTQYFGPG"
+-0.262
+
+Results for 17 residue sequence "lcl|Query_10084" starting "SQKHSVLRRR"
+-0.976
+
+Results for 16 residue sequence "lcl|Query_10085" starting "TKRPSTSGQA"
+-1.250
+
+Results for 18 residue sequence "lcl|Query_10086" starting "LWGQRPDFRG"
+-1.611
+
+Results for 15 residue sequence "lcl|Query_10087" starting "LLRAVLRAGH"
+-0.127
+
+Results for 179 residue sequence "lcl|Query_10088" starting "DLKNVFPPEV"
+-0.206
+
+Results for 112 residue sequence "lcl|Query_10089" starting "MLCSLLALLL"
+0.216
+

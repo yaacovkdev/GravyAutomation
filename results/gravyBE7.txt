@@ -1,0 +1,8 @@
+Protein GRAVY results
+
+Results for 246 residue sequence "lcl|Query_10001" starting "MSLQWTAVAT"
+-0.157
+
+Results for 96 residue sequence "lcl|Query_10002" starting "MIGAQPDIKD"
+-0.020
+

@@ -264,5 +264,6 @@ Results for 179 residue sequence "lcl|Query_10087" starting "DLKNVFPPEV"
 Results for 112 residue sequence "lcl|Query_10088" starting "MLCSLLALLL"
 0.216
 
-Results for 134 residue sequence "lcl|Query_10089" starting "LPQLCTELQT"
--0.539
+Results for 139 residue sequence "lcl|Query_10089" starting "MATEHPRTLE"
+-0.037
+
