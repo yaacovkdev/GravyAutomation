@@ -1,0 +1,8 @@
+Protein GRAVY results
+
+Results for 139 residue sequence "ref|YP_009163891.1| [organism=Human papillomavirus] [isolate=SE379] [nat_host=Homo sapiens] [gcode=1] [country=Sweden] [collection_date=2014] [tech=concept-trans] E6 [Human papillomavirus]" starting "MATEHPRTLE"
+-0.037
+
+Results for 1240 residue sequence "ref|XP_054171396.1| [location=chromosome] [chromosome=17] [completeness=complete] [organism=Homo sapiens] [isolate=CHM13] [note=haploid cell line] [gcode=1] [chromosome=17] [sex=female] [cell_line=CHM13htert] [tissue_type=hydatidiform mole] receptor tyrosine-protein kinase erbB-2 isoform X1 [Homo sapiens]" starting "MPRGSWKPQV"
+-0.281
+
