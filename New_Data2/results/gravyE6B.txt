@@ -1,0 +1,7 @@
+Protein GRAVY results
+
+Results for 12 residue sequence "epitope 1" starting "RENTSPKANK"
+-1.925
+
+Results for 12 residue sequence "epitope 4" starting "MATEHPRTLE"
+-1.250

@@ -1,0 +1,13 @@
+Protein GRAVY results
+
+Results for 9 residue sequence "epitope 1" starting "VIGTGKKIT"
+0.356
+
+Results for 12 residue sequence "epitope 4" starting "LCASSEARGL"
+0.167
+
+Results for 9 residue sequence "epitope 5" starting "MIGAQPDIK"
+-0.022
+
+Results for 12 residue sequence "epitope 8" starting "LCSKGRRHGR"
+-1.750

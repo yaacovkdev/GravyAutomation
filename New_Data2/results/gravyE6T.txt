@@ -1,0 +1,20 @@
+Protein GRAVY results
+
+Results for 15 residue sequence "epitope 1" starting "AEISHTQKAT"
+0.527
+
+Results for 17 residue sequence "epitope 4" starting "QDRAKPVTQI"
+-0.500
+
+Results for 10 residue sequence "epitope 5" starting "RADCGFTSES"
+-0.710
+
+Results for 15 residue sequence "epitope 6" starting "MATEHPRTLE"
+-0.813
+
+Results for 17 residue sequence "epitope 9" starting "LDTAEKYDIV"
+0.129
+
+Results for 10 residue sequence "epitope 10" starting "RGLCRECTPR"
+-1.090
+

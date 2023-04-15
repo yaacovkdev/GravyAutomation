@@ -1,0 +1,19 @@
+Protein GRAVY results
+
+Results for 20 residue sequence "epitope 1" starting "CTGPKHSDCL"
+-0.050
+
+Results for 9 residue sequence "epitope 3" starting "TQRCEKCSK"
+-1.756
+
+Results for 8 residue sequence "epitope 4" starting "GMEHLREV"
+-0.650
+
+Results for 20 residue sequence "epitope 5" starting "MIGAQPDIKD"
+0.310
+
+Results for 9 residue sequence "epitope 7" starting "SFVCILCSK"
+1.644
+
+Results for 8 residue sequence "epitope 8" starting "GRRHGRPN"
+-2.825

@@ -1,6 +1,6 @@
 import re
 
-e6res = open("../../New_Data/results/gravyBE6.txt", "r")
+e6res = open("../../New_Data2/results/gravyE7B.txt", "r")
 pat = r'.*?\"(.*)".*'
 
 #structure of the txt file
@@ -9,7 +9,7 @@ for i in range(2):
 Lines = e6res.readlines()
 
 table_columns = "Sequence, Sequence Full Name, Results, Starting, Hydrogenicity score\n"
-e6table = open("../../New_Data/results/BE6Table.csv", "a")
+e6table = open("../../New_Data2/results/E7BTable.csv", "a")
 e6table.write(table_columns)
 
 titleline = True

@@ -1,0 +1,64 @@
+>T-cell alignment with E6HPV
+
+>epitope 1
+AEISHTQKATLVCLA
+
+>epitope 4
+QDRAKPVTQIVSAEAWG
+
+>epitope 5
+RADCGFTSES
+
+>epitope 6
+MATEHPRTLEEYCLQ
+
+>epitope 9
+LDTAEKYDIVCSGGLFH
+
+>epitope 10
+RGLCRECTPR
+
+
+>T-cell alignment with E7HPV
+
+>epitope 1
+VIGTGKKIT
+
+>epitope 4
+LCASSEARGLAE
+
+>epitope 5
+MIGAQPDIK
+
+>epitope 8
+LCSKGRRHGRPN
+
+
+>B-cell alignment with E6HPV
+
+>epitope 1
+RENTSPKANKEI
+
+>epitope 4
+MATEHPRTLEEY
+
+
+>B-cell alignment with E7HPV
+
+>epitope 1
+CTGPKHSDCLACLHFNHSGI 
+
+>epitope 3
+TQRCEKCSK
+
+>epitope 4
+GMEHLREV
+
+>epitope 5
+MIGAQPDIKDIDLDLQELVL
+
+>epitope 7
+SFVCILCSK
+
+>epitope 8
+GRRHGRPN
